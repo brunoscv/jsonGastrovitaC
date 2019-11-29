@@ -15,7 +15,7 @@
             "authorized_checkin": true,
             "pendency": null,
             "created_at": "2018-12-19 14:22:34",
-            "updated_at": "2019-04-13 10:50:25",
+            "updated_at": null,
             "deleted_at": null,
             "profissional_name": "CARLOS DIMAS DE CARVALHO SOUSA",
             "profissional_image": "img/104220201901035c2e113c6e8a7.jpeg"
@@ -34,8 +34,8 @@
             "date_checkin": null,
             "authorized_checkin": true,
             "pendency": null,
-            "created_at": "2018-12-19 14:22:34",
-            "updated_at": "2019-04-13 10:50:25",
+            "created_at": "2018-05-12 07:11:34",
+            "updated_at": null,
             "deleted_at": null,
             "profissional_name": "DANIELA CALADO LIMA",
             "profissional_image": "img/104305201901035c2e116945f4d.jpeg"
@@ -54,8 +54,8 @@
             "date_checkin": null,
             "authorized_checkin": false,
             "pendency": null,
-            "created_at": "2018-12-19 14:22:34",
-            "updated_at": "2019-04-13 10:50:25",
+            "created_at": "2018-09-09 10:08:34",
+            "updated_at": null,
             "deleted_at": null,
             "profissional_name": "CAROLINE NOGUEIRA PARANHOS",
             "profissional_image": "img/104240201901035c2e11503209d.jpeg"
